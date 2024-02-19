@@ -1,0 +1,26 @@
+.pagination
+{
+    display: flex;
+    gap: 25px;
+    margin: 25px 0;
+}
+.pagination button
+{
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+.cant-pages
+{
+    font-size: 1.5rem;
+    padding-top: 5px;
+}
+button
+{
+    color: #010101;
+}
+button:hover
+{
+    background-color: #04A105;
+    color: rgb(255, 255, 255);
+}
